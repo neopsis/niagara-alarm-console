@@ -1,0 +1,29 @@
+#
+# Lexicon for the Neopsis Alarm module
+#
+
+#
+# Labels for Neopsis Alarm Console
+#
+neo.alarm.console.alarmproperties.label = Alarm properties
+
+#
+# Labels for Neopsis Alarm Ext Manager
+#
+neo.alarm.manager.slotpath.label = Slot Path
+neo.alarm.manager.pointname.label = Point Name
+neo.alarm.manager.alarmsource.label = Alarm Source
+neo.alarm.manager.pointdisplayname.label = Point Display Name
+neo.alarm.manager.alarmclass.label = Alarm Class
+neo.alarm.manager.offnormaltext.label = Offnormal Text
+neo.alarm.manager.normaltext.label = Normal Text
+neo.alarm.manager.faulttext.label = Fault Text
+neo.alarm.manager.inhibittime.label = Alarm Inhibit
+neo.alarm.manager.inhibittime.label = Inhibit Time
+neo.alarm.manager.alarmdelay.label = Alarm Delay
+neo.alarm.manager.delaytonormal.label = Delay to Normal
+neo.alarm.manager.offnormalenabled.label = Offnormal Enabled
+neo.alarm.manager.faultenabled.label = Fault Enabled
+neo.alarm.manager.alarmenable.label = Alarm Enable
+neo.alarm.manager.instructions.label = Instructions
+neo.alarm.manager.alarminhibit.label = Alarm Inhibit

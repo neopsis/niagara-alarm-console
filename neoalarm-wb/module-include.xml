@@ -1,0 +1,15 @@
+<types>
+  <!--com.neopsis.niagara.module.neoalarm-->
+  <type class="com.neopsis.niagara.module.neoalarm.BNeoAlarmConsole" name="NeoAlarmConsole">
+    <agent requiredPermissions="r">
+      <on type="neoalarm:NeoConsoleRecipient"/>
+    </agent>
+  </type>
+  <type class="com.neopsis.niagara.module.neoalarm.BNeoAlarmExtManager" name="NeoAlarmExtManager">
+    <agent requiredPermissions="r">
+      <on type="alarm:AlarmService"/>
+    </agent>
+  </type>
+  <type class="com.neopsis.niagara.module.neoalarm.BNeoAlarmPropertyEditor" name="NeoAlarmPropertyEditor"/>
+  <type class="com.neopsis.niagara.module.neoalarm.BNeoConsoleRecipient" name="NeoConsoleRecipient"/>
+</types>
